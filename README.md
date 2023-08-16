@@ -1,6 +1,8 @@
 # Portfolio Web
 
-¡Bienvenido a mi portfolio web! En este proyecto, he creado un sitio web personal para mostrar mis habilidades, proyectos y experiencia en el campo del desarrollo web. Puedes acceder al portfolio en el siguiente enlace: [https://isi-17.github.io/Portfolio/](https://isi-17.github.io/Portfolio/)
+¡Bienvenido a mi portfolio web! En este proyecto, he creado un sitio web personal para mostrar mis habilidades, proyectos y experiencia en el campo del desarrollo web. 
+
+Puedes acceder al portfolio en el siguiente enlace: [https://isi-17.github.io/Portfolio/](https://isi-17.github.io/Portfolio/)
 
 ## Tecnologías Utilizadas
 
