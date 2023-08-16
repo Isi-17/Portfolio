@@ -14,7 +14,3 @@ En la construcción de este portfolio, he utilizado las siguientes tecnologías:
 
 - **JSON:** Fue empleado para las animaciones y funcionalidades en la aplicación.
 
-## Cómo Ver el Sitio
-
-Puedes acceder al portfolio directamente a través de este enlace: [https://isi-17.github.io/Portfolio/](https://isi-17.github.io/Portfolio/)
-
