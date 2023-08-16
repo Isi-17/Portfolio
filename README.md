@@ -18,13 +18,13 @@ En la construcción de este portfolio, he utilizado las siguientes tecnologías:
 
 El repositorio se organiza de la siguiente manera:
 
-- **index.html:** Este archivo contiene la estructura básica de la página principal del portfolio.
+- `index.html:` Este archivo contiene la estructura básica de la página principal del portfolio.
 
-- **style.css:** Aquí se encuentra la hoja de estilo que define la apariencia visual de la página.
+- `style.css:` Aquí se encuentra la hoja de estilo que define la apariencia visual de la página.
 
-- **data.json:** Un archivo JSON que almacena información sobre mí, mis habilidades y proyectos. Esto permite que los datos se carguen dinámicamente en el sitio.
+- `data.json:` Un archivo JSON que almacena información sobre mí, mis habilidades y proyectos. Esto permite que los datos se carguen dinámicamente en el sitio.
 
-- **img/:** Esta carpeta contiene las imágenes utilizadas en el sitio web.
+- `img/:` Esta carpeta contiene las imágenes utilizadas en el sitio web.
 
 ## Cómo Ver el Sitio
 
