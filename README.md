@@ -12,5 +12,5 @@ En la construcción de este portfolio, he utilizado las siguientes tecnologías:
 
 - **CSS:** El diseño visual y la presentación del sitio web han sido creados con CSS. Esto incluye el diseño de la página, colores, fuentes y disposición de elementos.
 
-- **JSON:** Fue empleado para las animaciones y funcionalidades en la aplicación.
+- **JavaScript:** Fue empleado para las animaciones y funcionalidades en la aplicación.
 
